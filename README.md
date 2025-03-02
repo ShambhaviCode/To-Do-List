@@ -33,6 +33,7 @@ Uses a struct to store tasks and functions to manage them:
 🌟 Compilation & Execution
 
 gcc todo.c -o todo
+
 ./todo
 
 🌟Future Enhancements
