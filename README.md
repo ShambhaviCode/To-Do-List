@@ -6,9 +6,13 @@ A simple To-Do List application in C to practice file handling, data structures,
 🌟 Features
 
 ✅ Add tasks
+
 ✅ View tasks
+
 ✅ Mark tasks as completed
+
 ✅ Delete tasks
+
 ✅ Save & load tasks for persistence
 
 🌟 How It Works
